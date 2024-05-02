@@ -1,0 +1,9 @@
+{
+  "mongodb": {
+    "connectionString": "mongodb+srv://mongodb:mongodb@cluster0.h3dfecc.mongodb.net/Amrit?retryWrites=true&w=majority&appName=Cluster0",
+    "authDB":"admin"
+  },
+  "jwt": {
+      "secret" : "mysecret"
+  }
+}
